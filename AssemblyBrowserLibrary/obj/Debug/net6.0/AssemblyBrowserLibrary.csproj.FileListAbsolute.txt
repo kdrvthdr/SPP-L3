@@ -1,0 +1,12 @@
+D:\house\шарага\6 сем\СПП\SPP-L3\AssemblyBrowserLibrary\bin\Debug\net6.0\AssemblyBrowserLibrary.deps.json
+D:\house\шарага\6 сем\СПП\SPP-L3\AssemblyBrowserLibrary\bin\Debug\net6.0\AssemblyBrowserLibrary.dll
+D:\house\шарага\6 сем\СПП\SPP-L3\AssemblyBrowserLibrary\bin\Debug\net6.0\AssemblyBrowserLibrary.pdb
+D:\house\шарага\6 сем\СПП\SPP-L3\AssemblyBrowserLibrary\obj\Debug\net6.0\AssemblyBrowserLibrary.csproj.AssemblyReference.cache
+D:\house\шарага\6 сем\СПП\SPP-L3\AssemblyBrowserLibrary\obj\Debug\net6.0\AssemblyBrowserLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\house\шарага\6 сем\СПП\SPP-L3\AssemblyBrowserLibrary\obj\Debug\net6.0\AssemblyBrowserLibrary.AssemblyInfoInputs.cache
+D:\house\шарага\6 сем\СПП\SPP-L3\AssemblyBrowserLibrary\obj\Debug\net6.0\AssemblyBrowserLibrary.AssemblyInfo.cs
+D:\house\шарага\6 сем\СПП\SPP-L3\AssemblyBrowserLibrary\obj\Debug\net6.0\AssemblyBrowserLibrary.csproj.CoreCompileInputs.cache
+D:\house\шарага\6 сем\СПП\SPP-L3\AssemblyBrowserLibrary\obj\Debug\net6.0\AssemblyBrowserLibrary.dll
+D:\house\шарага\6 сем\СПП\SPP-L3\AssemblyBrowserLibrary\obj\Debug\net6.0\refint\AssemblyBrowserLibrary.dll
+D:\house\шарага\6 сем\СПП\SPP-L3\AssemblyBrowserLibrary\obj\Debug\net6.0\AssemblyBrowserLibrary.pdb
+D:\house\шарага\6 сем\СПП\SPP-L3\AssemblyBrowserLibrary\obj\Debug\net6.0\ref\AssemblyBrowserLibrary.dll
