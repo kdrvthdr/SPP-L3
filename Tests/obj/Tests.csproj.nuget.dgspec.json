@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\house\\шарага\\6 сем\\СПП\\SPP-L3\\Tests\\Tests.csproj": {}
+    "D:\\FY\\SPP-L3\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "D:\\house\\шарага\\6 сем\\СПП\\SPP-L3\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj": {
+    "D:\\FY\\SPP-L3\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\house\\шарага\\6 сем\\СПП\\SPP-L3\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj",
+        "projectUniqueName": "D:\\FY\\SPP-L3\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj",
         "projectName": "AssemblyBrowserLibrary",
-        "projectPath": "D:\\house\\шарага\\6 сем\\СПП\\SPP-L3\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\house\\шарага\\6 сем\\СПП\\SPP-L3\\AssemblyBrowserLibrary\\obj\\",
+        "projectPath": "D:\\FY\\SPP-L3\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj",
+        "packagesPath": "C:\\Users\\NeroHaaki\\.nuget\\packages\\",
+        "outputPath": "D:\\FY\\SPP-L3\\AssemblyBrowserLibrary\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\NeroHaaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,30 +55,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\house\\шарага\\6 сем\\СПП\\SPP-L3\\Tests\\Tests.csproj": {
+    "D:\\FY\\SPP-L3\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\house\\шарага\\6 сем\\СПП\\SPP-L3\\Tests\\Tests.csproj",
+        "projectUniqueName": "D:\\FY\\SPP-L3\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "D:\\house\\шарага\\6 сем\\СПП\\SPP-L3\\Tests\\Tests.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\house\\шарага\\6 сем\\СПП\\SPP-L3\\Tests\\obj\\",
+        "projectPath": "D:\\FY\\SPP-L3\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\NeroHaaki\\.nuget\\packages\\",
+        "outputPath": "D:\\FY\\SPP-L3\\Tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\NeroHaaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\house\\шарага\\6 сем\\СПП\\SPP-L3\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj": {
-                "projectPath": "D:\\house\\шарага\\6 сем\\СПП\\SPP-L3\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj"
+              "D:\\FY\\SPP-L3\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj": {
+                "projectPath": "D:\\FY\\SPP-L3\\AssemblyBrowserLibrary\\AssemblyBrowserLibrary.csproj"
               }
             }
           }
@@ -101,6 +112,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -139,12 +155,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
